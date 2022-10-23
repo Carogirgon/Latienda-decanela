@@ -4,8 +4,8 @@
 
 # La Tienda de Canela
 
-
-  La Tienda de Canela es un sitio web de comercio electrónico de tienda de mascotas,<br/>Responsivo para todos los dispositivos, creado con HTML, CSS y JavaScript.
+  La Tienda de Canela is a pet store e-commerce website,<br/>
+  Responsive for all devices, built with HTML, CSS, and JavaScript.
 
   <a href="https://carogirgon.github.io/Latienda-decanela/"><strong>➥ Live Demo</strong></a>
 </div>
@@ -29,6 +29,6 @@
 ------------
 You can open this project by cloning this repository
 ```bash
-git clone 
+git clone https://github.com/Carogirgon/Latienda-decanela.git
 ```
 
