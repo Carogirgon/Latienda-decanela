@@ -7,7 +7,7 @@
   La Tienda de Canela is a pet store e-commerce website,<br/>
   Responsive for all devices, built with HTML, CSS, and JavaScript.
 
-  <a href="https://carogirgon.github.io/Latienda-decanela/"><strong>➥ Live Demo</strong></a>
+  <a href="https://latiendadecanela.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 <br />
