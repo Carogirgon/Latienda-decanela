@@ -3,9 +3,7 @@
 ## Links para importar
 
 ``` css
-@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
-@import url('http://fonts.cdnfonts.com/css/the-fountain-of-wishes');
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;600&family=Nunito+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Nunito+Sans:wght@400;700&family=Yanone+Kaffeesatz:wght@300;400;600&display=swap');
 ```
 ---------------------------------------------------------------
 
@@ -14,7 +12,7 @@
 ``` css
 --font-family-henny: 'Henny Penny', cursive;
 --font-family-nunito-sans: 'Nunito Sans', sans-serif; 
---font-family-wishes: 'The Fountain of Wishes', sans-serif;
+--font-family-wishes: 'Yanone Kaffeesatz', sans-serif;
 
 /* font weight */
 --font-weight-300: 300;
