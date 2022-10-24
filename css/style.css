@@ -991,6 +991,9 @@ span{
         margin: 0;
         width: 100%;
     }
+    .scrollbar-item { 
+        min-width: 20%; 
+    }
 }
 
 @media (max-width: 390px) {
@@ -1004,8 +1007,18 @@ span{
         width: 100%;
     }
     .slider img{
-        height: 35vh;
+        height: 30vh;
         width: 100%;
         object-fit: contain;
+    }
+    .scrollbar-item { 
+        min-width: 20%; 
+    }
+    .img-footer{
+        margin-block: 20px;
+        border-radius: 10px;
+        background-color: var(--blanco);
+        width: 100%;
+        max-width: max-content;
     }
 }
