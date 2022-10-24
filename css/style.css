@@ -1016,8 +1016,8 @@ span{
         min-width: 20%; 
     }
     .img-footer{
-        width: 100%;
-        max-width: max-content;
+        display: flex;
+        width: 100vw;
     }
 }
 
@@ -1040,7 +1040,7 @@ span{
         min-width: 20%; 
     }
     .img-footer{
+        display: flex;
         width: 100vw;
-        max-width: max-content;
     }
 }
