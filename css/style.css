@@ -937,7 +937,7 @@ span{
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
     html {
         font-size: 55%;
     }
@@ -948,7 +948,7 @@ span{
         width: 100%;
     }
     .slider img{
-        height: 38vh;
+        height: 45vh;
         width: 100%;
         object-fit: contain;
     }

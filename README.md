@@ -10,8 +10,6 @@
   <a href="https://latiendadecanela.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
-<br />
-
 ### Demo Screeshots
 
 ![La tienda de canela Desktop Demo](./images/latienda.png "Desktop Demo")
