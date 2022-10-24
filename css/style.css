@@ -1041,7 +1041,7 @@ span{
         min-width: 20%; 
     }
     .img-footer{
-        display: inline-block;
+        display: flex;
         width: 100vw;
         max-width: max-content;
     }
