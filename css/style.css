@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
-@import url('http://fonts.cdnfonts.com/css/the-fountain-of-wishes');
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;600&family=Nunito+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Nunito+Sans:wght@400;700&family=Yanone+Kaffeesatz:wght@300;400;600&display=swap');
 
 :root{
 
@@ -19,7 +17,7 @@
 /* Tipografia */
 --font-family-henny: 'Henny Penny', cursive;
 --font-family-nunito-sans: 'Nunito Sans', sans-serif; 
---font-family-wishes: 'The Fountain of Wishes', sans-serif;
+--font-family-wishes: 'Yanone Kaffeesatz', sans-serif;
 
 /* font weight */
 --font-weight-300: 300;
@@ -380,7 +378,6 @@ label{
 
 .plan .box-container .box .title {
     font-family: var(--font-family-wishes);
-    font-weight: var(--font-weight-300);
     text-align: center;
     color: var(--anaranjado);
     font-size: 3rem;
@@ -763,6 +760,7 @@ span{
 
 .copyright { 
     font-family: var(--font-family-wishes);
+    font-weight: var(--font-weight-600);
     letter-spacing: .2rem;
     font-size: 18px;
     text-align: center;
