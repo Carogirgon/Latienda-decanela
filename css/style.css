@@ -1011,12 +1011,6 @@ span{
         width: 100%;
         object-fit: contain;
     }
-    .scrollbar-item { 
-        min-width: 20%; 
-    }
-    .img-footer{
-        display: none;
-    }
 }
 
 @media (max-width: 390px) {
@@ -1033,9 +1027,6 @@ span{
         height: 30vh;
         width: 100%;
         object-fit: contain;
-    }
-    .scrollbar-item { 
-        min-width: 20%; 
     }
     .img-footer{
         display: none;
