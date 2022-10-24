@@ -996,7 +996,6 @@ span{
     }
 }
 
-
 @media (max-width: 414px) {
     html {
         font-size: 50%;
@@ -1016,7 +1015,7 @@ span{
         min-width: 20%; 
     }
     .img-footer{
-        width: 100vw;
+        display: none;
     }
 }
 
