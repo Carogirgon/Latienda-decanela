@@ -996,6 +996,32 @@ span{
     }
 }
 
+
+@media (max-width: 414px) {
+    html {
+        font-size: 50%;
+    }
+    nav{
+        width: 100vw;
+    }
+    .nav-links .login-form {
+        width: 100%;
+    }
+    .slider img{
+        height: 30vh;
+        width: 100%;
+        object-fit: contain;
+    }
+    .scrollbar-item { 
+        min-width: 20%; 
+    }
+    .img-footer{
+        display: flex;
+        width: 100%;
+        max-width: max-content;
+    }
+}
+
 @media (max-width: 390px) {
     html {
         font-size: 50%;
@@ -1015,9 +1041,7 @@ span{
         min-width: 20%; 
     }
     .img-footer{
-        margin-block: 20px;
-        border-radius: 10px;
-        background-color: var(--blanco);
+        display: flex;
         width: 100%;
         max-width: max-content;
     }
