@@ -3,7 +3,7 @@
 ## Links para importar
 
 ``` css
-@import url('http://fonts.cdnfonts.com/css/jenthill');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
 @import url('http://fonts.cdnfonts.com/css/the-fountain-of-wishes');
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;600&family=Nunito+Sans:wght@400;700&display=swap');
 ```
@@ -12,7 +12,7 @@
 ## Typografia
 
 ``` css
---font-family-jenthill: 'Jenthill', sans-serif;
+--font-family-henny: 'Henny Penny', cursive;
 --font-family-nunito-sans: 'Nunito Sans', sans-serif; 
 --font-family-wishes: 'The Fountain of Wishes', sans-serif;
 
