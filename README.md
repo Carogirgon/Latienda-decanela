@@ -4,8 +4,7 @@
 
 # La Tienda de Canela
 
-  La Tienda de Canela is a pet store e-commerce website,<br/>
-  Responsive for all devices, built with HTML, CSS, and JavaScript.
+  La Tienda de Canela is a pet store e-commerce website
 
   <a href="https://latiendadecanela.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
