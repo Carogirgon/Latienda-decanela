@@ -876,7 +876,7 @@ span{
         min-width: 20%; 
     }
     .img-footer{
-        display: block;
+        display: flex;
     }
 }
 
@@ -947,7 +947,7 @@ span{
         margin-left: 1rem;
     }
     .img-footer{
-        display: block;
+        display: flex;
     }
 }
 
@@ -1008,7 +1008,7 @@ span{
         min-width: 20%; 
     }
     .img-footer{
-        display: block;
+        display: flex;
     }
 }
 
@@ -1026,7 +1026,7 @@ span{
         height: 100%;
     }
     .img-footer{
-        display: block;
+        display: flex;
     }
 }
 
@@ -1044,6 +1044,6 @@ span{
         height: 100%;
     }
     .img-footer{
-        display: block;
+        display: flex;
     }
 }
